@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="76620">
+<date>1996-07-03T06:18:15.000000Z</date>
+<paths>
+<path
+   action="A"
+   prop-mods="false"
+   text-mods="false"
+   kind="dir">/httpd/httpd/trunk</path>
+</paths>
+</logentry>
+<logentry
+   revision="76621">
+<author>brian</author>
+<date>1996-07-03T06:18:15.000000Z</date>
+<paths>
+<path
+   action="A"
+   prop-mods="false"
+   text-mods="false"
+   kind="dir">/httpd/httpd/trunk/docs</path>
+<path
+   action="A"
+   prop-mods="false"
+   text-mods="false"
+   kind="dir">/httpd/httpd/trunk/docs/docroot</path>
+<path
+   action="A"
+   prop-mods="true"
+   text-mods="true"
+   kind="file">/httpd/httpd/trunk/docs/docroot/apache_pb.gif</path>
+</paths>
+</logentry>
+<logentry
+   revision="1588807">
+<author>humbedooh</author>
+<date>2014-04-20T17:56:10.954694Z</date>
+<paths>
+<path
+   action="M"
+   prop-mods="false"
+   text-mods="true"
+   kind="file">/httpd/httpd/trunk/modules/lua/lua_request.c</path>
+</paths>
+</logentry>
+</log>
