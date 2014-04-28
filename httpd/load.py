@@ -10,4 +10,4 @@ for parent in tree.getiterator("logentry"):
         # print(child.find("path").text)
         child.attrib["paths"]
 
-
+# 개별 attribute에 접근 하는 방법은??
